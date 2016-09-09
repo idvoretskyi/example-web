@@ -1,4 +1,4 @@
-example-web
+Example-web
 ===========
 
-simple example web page
+Sample web page for demo purposes
